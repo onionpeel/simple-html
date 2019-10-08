@@ -11,9 +11,9 @@ const changeColor = () => {
 
 const addImage = () => {
   let img = document.createElement('img');
-  img.src = "https://religionnews.com/wp-content/uploads/2019/01/webRNS-Alexandria-Ocasio-Cortez2-013119.jpg";
-  img.height = 610;
-  img.width = 488;
+  img.src = "https://www.joyofbaking.com/images/facebook/creampuffs1.jpg";
+  img.height = 265;
+  img.width = 400;
   img.alt = 'aoc';
   img.classList.add('center');
   document.body.appendChild(img);
